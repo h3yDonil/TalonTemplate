@@ -19,4 +19,3 @@ class tab_actions:
 
     def tab_duplicate():
         """Duplicates the current tab."""
-pnmap
